@@ -4,7 +4,7 @@ A Claude Code mod that shows a band above the prompt with the model, context usa
 
 > ### Terminal
 >
-> ![context-line in the terminal](images/terminal.png "context-line in the terminal")
+> ![context-line in the terminal](images/terminal-console.png "context-line in the terminal")
 
 > ### Claude Code desktop app
 >
