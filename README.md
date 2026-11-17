@@ -6,10 +6,21 @@
 
 A Claude Code mod that draws a band above the prompt. The band shows your session at a glance: the model, how full the context window is, the time, the cost, and where you work.
 
-<!-- Add a screenshot at images/hero.png, then remove this comment and uncomment the next line. -->
-<!-- ![context-line in the terminal](images/hero.png) -->
+## Screenshots
 
-> Screenshot: the band above the prompt in a wide terminal. Save it as `images/hero.png`.
+Terminal:
+
+<!-- ![context-line in the terminal](images/terminal.png) -->
+
+> Screenshot: the band in the terminal. Save it as `images/terminal.png`.
+
+Claude Code desktop app:
+
+<!-- ![context-line in the desktop app](images/desktop.png) -->
+
+> Screenshot: the band in the desktop app. Save it as `images/desktop.png`.
+
+To add a screenshot, save the file in `images/`, uncomment its image line, and remove the caption below it.
 
 ## What it shows
 
@@ -35,21 +46,9 @@ The bar changes color with the fill of the window.
 
 On a wide terminal, the folder and the branch sit at the right edge, with no separator before them.
 
-<!-- ![Wide layout](images/wide.png) -->
-
-> Screenshot: wide layout. Save it as `images/wide.png`.
-
 On a narrow terminal, all items flow in one row that wraps, with a `|` after each item.
 
-<!-- ![Narrow layout](images/narrow.png) -->
-
-> Screenshot: narrow layout. Save it as `images/narrow.png`.
-
-The mod works in the desktop app too.
-
-<!-- ![Desktop app](images/desktop.png) -->
-
-> Screenshot: the band in the desktop app. Save it as `images/desktop.png`.
+The mod works in the terminal and in the desktop app.
 
 ## Install
 
