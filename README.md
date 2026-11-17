@@ -6,22 +6,6 @@
 
 A Claude Code mod that draws a band above the prompt. The band shows your session at a glance: the model, how full the context window is, the time, the cost, and where you work.
 
-## Screenshots
-
-Terminal:
-
-<!-- ![context-line in the terminal](images/terminal.png) -->
-
-> Screenshot: the band in the terminal. Save it as `images/terminal.png`.
-
-Claude Code desktop app:
-
-<!-- ![context-line in the desktop app](images/desktop.png) -->
-
-> Screenshot: the band in the desktop app. Save it as `images/desktop.png`.
-
-To add a screenshot, save the file in `images/`, uncomment its image line, and remove the caption below it.
-
 ## What it shows
 
 | Item | Example | Meaning |
