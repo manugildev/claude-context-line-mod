@@ -4,15 +4,11 @@ A Claude Code mod that shows a band above the prompt with the model, context usa
 
 ## Terminal
 
-![context-line in the terminal](images/terminal.png)
-
----
+> ![context-line in the terminal](images/terminal.png)
 
 ## Desktop app
 
-![context-line in the Claude Code desktop app](images/desktop.png)
-
----
+> ![context-line in the Claude Code desktop app](images/desktop.png)
 
 ## Install
 
