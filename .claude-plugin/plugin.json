@@ -1,0 +1,10 @@
+{
+  "name": "context-line",
+  "version": "0.1.0",
+  "description": "Band above the prompt with the same info as the status line: model, context bar, tokens, time, cost, folder and branch",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "Manuel Gil"
+  }
+}
