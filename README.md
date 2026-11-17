@@ -4,6 +4,10 @@ A Claude Code mod that draws a band above the prompt: model, context bar, tokens
 
 The bar is green below 70 percent, yellow from 70, and red from 90. On a wide terminal, the folder and branch sit at the right edge. On a narrow one, all items wrap in one row.
 
+![context-line in the terminal](images/terminal.png)
+
+![context-line in the Claude Code desktop app](images/desktop.png)
+
 ## Install
 
 ```
