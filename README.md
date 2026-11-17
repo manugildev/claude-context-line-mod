@@ -2,9 +2,17 @@
 
 A Claude Code mod that shows a band above the prompt with the model, context usage, session time, cost, folder and git branch. It works in the terminal and in the desktop app.
 
+## Terminal
+
 ![context-line in the terminal](images/terminal.png)
 
+---
+
+## Desktop app
+
 ![context-line in the Claude Code desktop app](images/desktop.png)
+
+---
 
 ## Install
 
