@@ -1,4 +1,4 @@
-# context-line
+# Context Line mod for Claude
 
 A Claude Code mod that shows a band above the prompt with the model, context usage, session time, cost, folder and git branch. It works in the terminal and in the desktop app.
 
